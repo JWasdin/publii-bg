@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tax Poetic</title>
+    <link href="https://jwasdin.github.io/publii-bg/feed.xml" rel="self" />
+    <link href="https://jwasdin.github.io/publii-bg" />
+    <updated>2021-01-22T22:06:04-06:00</updated>
+    <author>
+        <name>Brad Garland</name>
+    </author>
+    <id>https://jwasdin.github.io/publii-bg</id>
+
+    <entry>
+        <title>Video </title>
+        <author>
+            <name>Brad Garland</name>
+        </author>
+        <link href="https://jwasdin.github.io/publii-bg/video.html"/>
+        <id>https://jwasdin.github.io/publii-bg/video.html</id>
+            <category term="video"/>
+
+        <updated>2021-01-22T22:06:04-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/aTPwbVqU6lc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

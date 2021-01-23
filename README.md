@@ -1,2 +1,0 @@
-# publii-bg
-publii test
